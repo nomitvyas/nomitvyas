@@ -1,78 +1,46 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 340" width="420" height="340" role="img" aria-label="Hooded hacker typing on a laptop">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 340" width="420" height="340" role="img" aria-label="Hooded hacker at a laptop">
   <defs>
-    <radialGradient id="screenglow" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#29ff9c" stop-opacity="0.55"/>
-      <stop offset="45%" stop-color="#2f81f7" stop-opacity="0.28"/>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#29ff9c" stop-opacity="0.5"/>
+      <stop offset="45%" stop-color="#2f81f7" stop-opacity="0.22"/>
       <stop offset="100%" stop-color="#2f81f7" stop-opacity="0"/>
     </radialGradient>
     <linearGradient id="lid" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#0e1c2e"/>
-      <stop offset="100%" stop-color="#0a1420"/>
+      <stop offset="0%" stop-color="#0e1c2e"/><stop offset="100%" stop-color="#0a1420"/>
     </linearGradient>
     <linearGradient id="hood" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#12233a"/>
-      <stop offset="100%" stop-color="#0b1524"/>
- <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 340" width="420" height="340" role="img" aria-label="Hooded hacker typing on a laptop">
-    <defs>
-      <radialGradient id="screenglow" cx="50%" cy="50%" r="50%">
-        <stop offset="0%" stop-color="#29ff9c" stop-opacity="0.55"/>
-        <stop offset="45%" stop-color="#2f81f7" stop-opacity="0.28"/>
-        <stop offset="100%" stop-color="#2f81f7" stop-opacity="0"/>
-      </radialGradient>
-      <linearGradient id="lid" x1="0" y1="0" x2="0" y2="1">
-        <stop offset="0%" stop-color="#0e1c2e"/>
-        <stop offset="100%" stop-color="#0a1420"/>
-      </linearGradient>
-      <linearGradient id="hood" x1="0" y1="0" x2="0" y2="1">
-        <stop offset="0%" stop-color="#12233a"/>
-        <stop offset="100%" stop-color="#0b1524"/>
-      </linearGradient>
-      <filter id="soft"><feGaussianBlur stdDeviation="6"/></filte
-      <style>
-        .eye{transform-box:fill-box;transform-origin:center;anima
-        @keyframes blink{0%,92%,100%{transform:scaleY(1)}95%{transform:scaleY(.12)}}
-        .glow{animation:pulse 3.2s ease-in-out infinite}
-        @keyframes pulse{0%,100%{opacity:.55}50%{opacity:1}}
-        .emblem{transform-box:fill-box;transform-origin:center;an-out infinite}
-        .handL{transform-box:fill-box;transform-origin:center;animation:typeL .46s ease-in-out infinite alternate}
-        .handR{transform-box:fill-box;transform-origin:center;aniout infinite alternate}
-        @keyframes typeL{from{transform:translateY(0)}to{transform:translateY(2.4px)}}
-        @keyframes typeR{from{transform:translateY(2.4px)}to{tran
-        .p{animation:rise 4s linear infinite;opacity:0}
-        @keyframes rise{0%{opacity:0;transform:translateY(6px)}20}100%{opacity:0;transform:translateY(-26px)}}
-        .p2{animation-duration:5.2s;animation-delay:.8s}
-        .p3{animation-duration:3.4s;animation-delay:1.6s}
-        .p4{animation-duration:4.6s;animation-delay:2.3s}
-        .p5{animation-duration:6s;animation-delay:.4s}
-        .scan{animation:scan 3s linear infinite}
-        @keyframes scan{0%{transform:translateY(0)}100%{transform
-      </style>
-    </defs>
-    <g font-family="monospace" font-size="12" font-weight="700">
-      <text class="p"  x="70"  y="150" fill="#29ff9c">1</text>
-      <text class="p p2" x="330" y="140" fill="#2f81f7">0</text>
-      <text class="p p3" x="95"  y="95"  fill="#ff4757">1</text>
-      <text class="p p4" x="345" y="200" fill="#29ff9c">0</text>
-      <text class="p p5" x="55"  y="215" fill="#2f81f7">1</text>
-    </g>
-    <ellipse cx="210" cy="180" rx="120" ry="70" fill="url(#screen="url(#soft)"/>
-    <path d="M112,320 C112,205 162,172 210,172 C258,172 308,205 308,320 Z" fill="url(#hood)" stroke="#1c4a63" stroke-width="2"/>
-    <path d="M210,180 L210,300" stroke="#16324a" stroke-width="2"
-    <path d="M172,190 Q210,210 248,190" fill="none" stroke="#2f81f7" stroke-width="2" opacity=".5"/>
-    <path d="M154,164 C150,74 270,74 266,164 Q210,142 154,164 Z" #1c4a63" stroke-width="2"/>
-    <path d="M168,150 C176,96 244,96 252,150" fill="none" stroke="#29ff9c" stroke-width="2" opacity=".45"/>
-    <ellipse cx="210" cy="126" rx="31" ry="34" fill="#04080e"/>
-    <g fill="#29ff9c">
-      <ellipse class="eye" cx="198" cy="124" rx="4.6" ry="5.4"/>
-      <ellipse class="eye" cx="222" cy="124" rx="4.6" ry="5.4"/>
-    </g>
-    <g fill="#29ff9c" opacity=".35" filter="url(#soft)">
-      <circle cx="198" cy="124" r="6"/>
-      <circle cx="222" cy="124" r="6"/>
-    </g>
-    <path d="M118,236 L302,236 L292,214 L128,214 Z" fill="#0d1a2a" stroke="#1c4a63" stroke-width="2"/>
-    <g fill="#16324a">
-      <rect x="150" y="219" width="10" height="4" rx="1"/><rect x="166" y="219" width="10" height="4" rx="1"/>
-      <rect x="182" y="219" width="10" height="4" rx="1"/><rect xheight="4" rx="1"/>
-      <rect x="214" y="219" width="10" height="4" rx="1"/><rect x="230" y="219" width="10" height="4" rx="1"/>
-      <rect x="246" y="219" width="10" height="4" rx="1"/>
+      <stop offset="0%" stop-color="#12233a"/><stop offset="100%" stop-color="#0b1524"/>
+    </linearGradient>
+  </defs>
+  <g font-family="monospace" font-size="12" font-weight="700" opacity="0.8">
+    <text x="70" y="150" fill="#29ff9c">1</text>
+    <text x="330" y="140" fill="#2f81f7">0</text>
+    <text x="95" y="95" fill="#ff4757">1</text>
+    <text x="345" y="200" fill="#29ff9c">0</text>
+    <text x="55" y="215" fill="#2f81f7">1</text>
+  </g>
+  <ellipse cx="210" cy="180" rx="120" ry="70" fill="url(#glow)"/>
+  <path d="M112,320 C112,205 162,172 210,172 C258,172 308,205 3" stroke="#1c4a63" stroke-width="2"/>
+  <path d="M210,180 L210,300" stroke="#16324a" stroke-width="2" opacity="0.7"/>
+  <path d="M172,190 Q210,210 248,190" fill="none" stroke="#2f81ty="0.5"/>
+  <path d="M154,164 C150,74 270,74 266,164 Q210,142 154,164 Z" fill="url(#hood)" stroke="#1c4a63" stroke-width="2"/>
+  <path d="M168,150 C176,96 244,96 252,150" fill="none" stroke= opacity="0.45"/>
+  <ellipse cx="210" cy="126" rx="31" ry="34" fill="#04080e"/>
+  <g fill="#29ff9c">
+    <ellipse cx="198" cy="124" rx="4.6" ry="5.4"/>
+    <ellipse cx="222" cy="124" rx="4.6" ry="5.4"/>
+  </g>
+  <path d="M118,236 L302,236 L292,214 L128,214 Z" fill="#0d1a2awidth="2"/>
+  <g fill="#16324a">
+    <rect x="150" y="219" width="10" height="4" rx="1"/><rect xheight="4" rx="1"/>
+    <rect x="182" y="219" width="10" height="4" rx="1"/><rect x="198" y="219" width="10" height="4" rx="1"/>
+    <rect x="214" y="219" width="10" height="4" rx="1"/><rect xheight="4" rx="1"/>
+    <rect x="246" y="219" width="10" height="4" rx="1"/>
+    <rect x="170" y="227" width="80" height="4" rx="1"/>
+  </g>
+  <path d="M138,214 L282,214 L272,166 L148,166 Z" fill="url(#lie-width="2"/>
+  <circle cx="210" cy="190" r="11" fill="none" stroke="#2f81f7" stroke-width="2" opacity="0.7"/>
+  <circle cx="210" cy="190" r="5" fill="#29ff9c"/>
+  <rect x="146" y="206" width="26" height="16" rx="7" fill="#12233a" stroke="#29ff9c" stroke-width="1.5"/>
+  <rect x="248" y="206" width="26" height="16" rx="7" fill="#12oke-width="1.5"/>
+</svg>

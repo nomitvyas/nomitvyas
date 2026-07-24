@@ -20,27 +20,27 @@
     <text x="55" y="215" fill="#2f81f7">1</text>
   </g>
   <ellipse cx="210" cy="180" rx="120" ry="70" fill="url(#glow)"/>
-  <path d="M112,320 C112,205 162,172 210,172 C258,172 308,205 3" stroke="#1c4a63" stroke-width="2"/>
+  <path d="M112,320 C112,205 162,172 210,172 C258,172 308,205 308,320 Z" fill="url(#hood)" stroke="#1c4a63" stroke-width="2"/>
   <path d="M210,180 L210,300" stroke="#16324a" stroke-width="2" opacity="0.7"/>
-  <path d="M172,190 Q210,210 248,190" fill="none" stroke="#2f81ty="0.5"/>
+  <path d="M172,190 Q210,210 248,190" fill="none" stroke="#2f81f7" stroke-width="2" opacity="0.5"/>
   <path d="M154,164 C150,74 270,74 266,164 Q210,142 154,164 Z" fill="url(#hood)" stroke="#1c4a63" stroke-width="2"/>
-  <path d="M168,150 C176,96 244,96 252,150" fill="none" stroke= opacity="0.45"/>
+  <path d="M168,150 C176,96 244,96 252,150" fill="none" stroke="#29ff9c" stroke-width="2" opacity="0.45"/>
   <ellipse cx="210" cy="126" rx="31" ry="34" fill="#04080e"/>
   <g fill="#29ff9c">
     <ellipse cx="198" cy="124" rx="4.6" ry="5.4"/>
     <ellipse cx="222" cy="124" rx="4.6" ry="5.4"/>
   </g>
-  <path d="M118,236 L302,236 L292,214 L128,214 Z" fill="#0d1a2awidth="2"/>
+  <path d="M118,236 L302,236 L292,214 L128,214 Z" fill="#0d1a2a" stroke="#1c4a63" stroke-width="2"/>
   <g fill="#16324a">
-    <rect x="150" y="219" width="10" height="4" rx="1"/><rect xheight="4" rx="1"/>
+    <rect x="150" y="219" width="10" height="4" rx="1"/><rect x="166" y="219" width="10" height="4" rx="1"/>
     <rect x="182" y="219" width="10" height="4" rx="1"/><rect x="198" y="219" width="10" height="4" rx="1"/>
-    <rect x="214" y="219" width="10" height="4" rx="1"/><rect xheight="4" rx="1"/>
+    <rect x="214" y="219" width="10" height="4" rx="1"/><rect x="230" y="219" width="10" height="4" rx="1"/>
     <rect x="246" y="219" width="10" height="4" rx="1"/>
     <rect x="170" y="227" width="80" height="4" rx="1"/>
   </g>
-  <path d="M138,214 L282,214 L272,166 L148,166 Z" fill="url(#lie-width="2"/>
+  <path d="M138,214 L282,214 L272,166 L148,166 Z" fill="url(#lid)" stroke="#1c4a63" stroke-width="2"/>
   <circle cx="210" cy="190" r="11" fill="none" stroke="#2f81f7" stroke-width="2" opacity="0.7"/>
   <circle cx="210" cy="190" r="5" fill="#29ff9c"/>
   <rect x="146" y="206" width="26" height="16" rx="7" fill="#12233a" stroke="#29ff9c" stroke-width="1.5"/>
-  <rect x="248" y="206" width="26" height="16" rx="7" fill="#12oke-width="1.5"/>
+  <rect x="248" y="206" width="26" height="16" rx="7" fill="#12233a" stroke="#ff4757" stroke-width="1.5"/>
 </svg>

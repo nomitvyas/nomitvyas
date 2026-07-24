@@ -8,7 +8,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2f81f7,50:29ff9c,100:ff4757&height=200&section=header&text=nomitvyas&fontColor=e6f0ff&fontSize=70&fontAlignY=35&desc=%2F%2F%20breaking%20in%20so%20they%20can%27t&descAlignY=58&descSize=18&animation=fadeIn" alt="nomitvyas banner"/>
 
 <!-- ░▒▓ HACKER CHARACTER ▓▒░ -->
-<img src="https://raw.githubusercontent.com/nomitvyas/nomitvyas/main/assets/hacker.svg" width="340" alt="hooded hacker typing on a laptop"/>
+<img src="https://raw.githubusercontent.com/nomitvyas/nomitvyas/main/assets/hacker.svg?v=2" width="340" alt="hooded hacker typing on a laptop"/>
 
 <!-- ░▒▓ TYPING HEADLINE ▓▒░ -->
 <a href="https://github.com/nomitvyas">
